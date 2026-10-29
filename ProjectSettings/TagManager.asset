@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - bash
+  - bullet
+  - Enemy
+  - arrow
+  - enemyBullet
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: background
+    uniqueID: 1494846843
+    locked: 0
+  - name: map things
+    uniqueID: 1742544927
+    locked: 0
+  - name: platform
+    uniqueID: 627531277
+    locked: 0
+  - name: bullet
+    uniqueID: 242875143
+    locked: 0
+  - name: player
+    uniqueID: 2137816221
+    locked: 0
