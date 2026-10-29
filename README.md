@@ -1,4 +1,4 @@
-# R3_f1ght
+# R3_f1ght (Submission for Brackeys Game Jam 2023,1)
 
 A top-down shooter where every round reshuffles how you play. Clear the wave and your character gets a random weapon and a random way of moving.
 
@@ -12,9 +12,9 @@ When you kill every enemy, the round ends and the next one starts with a new loa
 
 - **Weapons:** bow, gun or bash
 - **Movement:**
-  - **Land:** move with W / S
-  - **Water:** hold W to swim forward, drifting with momentum
-  - **Air:** you fly forward on your own; hold Space to slow down
+  - **Square:** move with W / S
+  - **Capsule:** hold W to swim forward, drifting with momentum
+  - **Hexagon:** you fly forward on your own; hold Space to slow down
 
 ## Controls
 
